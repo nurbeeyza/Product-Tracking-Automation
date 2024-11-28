@@ -1,0 +1,57 @@
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Product Tracking Automation.exe.config
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Product Tracking Automation.exe
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Product Tracking Automation.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\BouncyCastle.Crypto.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\BouncyCastle.Cryptography.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.Core.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\itextsharp.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.Rendering.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.RtfRendering.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Newtonsoft.Json.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Charting.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Quality.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Snippets.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.System.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.WPFonts.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\BouncyCastle.Crypto.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\BouncyCastle.Cryptography.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.Core.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Common.Logging.Core.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\itextsharp.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.Rendering.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.Rendering.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.RtfRendering.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.RtfRendering.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\Newtonsoft.Json.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Charting.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Charting.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Quality.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Quality.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.Snippets.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.DocumentObjectModel.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.System.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.System.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.WPFonts.pdb
+D:\csharpuyg\Product Tracking Automation\bin\Debug\PdfSharp.WPFonts.xml
+D:\csharpuyg\Product Tracking Automation\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\de\PdfSharp.resources.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\csharpuyg\Product Tracking Automation\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product Tracking Automation.csproj.AssemblyReference.cache
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product_Tracking_Automation.Form1.resources
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product_Tracking_Automation.Form2.resources
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product_Tracking_Automation.Properties.Resources.resources
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product Tracking Automation.csproj.GenerateResource.cache
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product Tracking Automation.csproj.CoreCompileInputs.cache
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product Tracking Automation.exe
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product Tracking Automation.pdb
+D:\csharpuyg\Product Tracking Automation\obj\Debug\Product .42D0A6C4.Up2Date
